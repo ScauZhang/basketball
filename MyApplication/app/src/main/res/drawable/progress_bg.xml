@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:innerRadius="0dp"
+            android:thickness="35dp"
+            android:shape="ring"
+            android:useLevel="false" >
+
+            <stroke android:color="#0f824c" android:width="4dp" android:dashGap="50dp" android:dashWidth="100dp"></stroke>
+        </shape>
+    </item>
+</selector>
